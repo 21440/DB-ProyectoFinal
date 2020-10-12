@@ -1,0 +1,48 @@
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\bin\Debug\ProyectoB2.exe.config
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\bin\Debug\ProyectoB2.exe
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\bin\Debug\ProyectoB2.pdb
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.csprojAssemblyReference.cache
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.Login.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.Properties.Resources.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.csproj.GenerateResource.cache
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.csproj.CoreCompileInputs.cache
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.exe
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.pdb
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegistroUsuario.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.Menu.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegMedicos.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegPacientes.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegHabitaciones.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ProcCitas.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ProcIngresos.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultAltaM.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultCitaM.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultHab.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultIngresos.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultMedicos.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultPacient.resources
+C:\Users\PERLA\source\repos\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ProcAltaMed.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.csprojAssemblyReference.cache
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.exe
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.pdb
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\bin\Debug\ProyectoB2.exe.config
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\bin\Debug\ProyectoB2.exe
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\bin\Debug\ProyectoB2.pdb
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultAltaM.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultCitaM.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultHab.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultIngresos.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultMedicos.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ConsultPacient.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.Login.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.Menu.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ProcAltaMed.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ProcCitas.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.ProcIngresos.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegHabitaciones.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegistroUsuario.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.Properties.Resources.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegMedicos.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.RegPacientes.resources
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.csproj.GenerateResource.cache
+C:\Users\otgax\OneDrive\Desktop\Proyecto final\ProyectoB2\ProyectoB2\obj\Debug\ProyectoB2.csproj.CoreCompileInputs.cache
